@@ -1,9 +1,9 @@
-import styled, { css } from 'styled-components'
+import styled, { css } from 'styled-components';
 import {ArrowLeft,
         Home,
         Search,
         Notifications,
-        Email} from '../../styles/Icons'
+        Email} from '../../styles/Icons';
 
 export const Container = styled.div`
   display: flex;
